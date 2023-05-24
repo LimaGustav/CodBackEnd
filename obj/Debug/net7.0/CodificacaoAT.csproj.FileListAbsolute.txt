@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CodificacaoAT\bin\Debug\net7.0\CodificacaoAT.exe
+C:\Users\admin\Desktop\CodificacaoAT\bin\Debug\net7.0\CodificacaoAT.deps.json
+C:\Users\admin\Desktop\CodificacaoAT\bin\Debug\net7.0\CodificacaoAT.runtimeconfig.json
+C:\Users\admin\Desktop\CodificacaoAT\bin\Debug\net7.0\CodificacaoAT.dll
+C:\Users\admin\Desktop\CodificacaoAT\bin\Debug\net7.0\CodificacaoAT.pdb
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.AssemblyInfo.cs
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.dll
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\refint\CodificacaoAT.dll
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.pdb
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\CodificacaoAT.genruntimeconfig.cache
+C:\Users\admin\Desktop\CodificacaoAT\obj\Debug\net7.0\ref\CodificacaoAT.dll
